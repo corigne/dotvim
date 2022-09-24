@@ -4,10 +4,18 @@
   so be sure to change it to where you have clang installed on the host system.
 
 ## Installation
-### clone the repository to .vim and run config.sh
+1. If .vim does not exist in your home directory already, else goto 2.  
+    cd ~
+    mkdir .vim
 
-Please report any issues you discover.  
-  
+2. Then, clone this repository into .vim.  
+    cd .vim
+    git clone https://github.com/corigne/dotvim.git .
 
-Enjoy  
--mich
+3. Run the config script to kickstart Vundle and download the rest of the plugins.  
+    bash config.sh
+
+### Please report any issues you discover.  
+
+## Enjoy  
+### -mich
