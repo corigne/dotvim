@@ -20,11 +20,12 @@
   ### clang_complete
   Be sure to configure clang_complete to point to the host system's clang installation.
 
+## Additional Notes:
 #### Please report any issues you discover.  
   You can report them here.
 
 #### Thanks to the vundle team for making plugin management easy.  
   https://github.com/VundleVim/Vundle.vim
 
-## Enjoy  
-### -mich
+### Enjoy,  
+### -corigne
