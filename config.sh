@@ -2,8 +2,6 @@
 
 #Clone the vundle repo to the correct bundle location.
 cd ~
-mkdir .vim
-mkdir .vim/bundle/
 [ -e .vim/bundle/Vundle.vim ] && rm -Rf .vim/bundle/Vundle.vim
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 vim +PluginInstall +qall
