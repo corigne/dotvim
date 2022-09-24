@@ -21,6 +21,7 @@
     bash config.sh
     ```
 ### Please report any issues you discover.  
+### Thanks to the vundle team for making plugin management easy.  
 
 ## Enjoy  
 ### -mich
