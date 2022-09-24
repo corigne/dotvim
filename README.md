@@ -1,6 +1,6 @@
 # My vim configuration + plugins
 ## Features
-  A vim config, including a 2 tab space, line numbers, and everforest colors.
+  A vim config, including a 2 tab space, line numbers, and everforest colors.  
   The configuration script installs Vundle, a plugin manager, and the following plugins:
   - xavierd/clang_complete (a C++ autocomplete plugin)
   - tpope/vim-figutive (a powerful plugin for git in vim) 
