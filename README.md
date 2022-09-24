@@ -1,8 +1,4 @@
 # My vim configuration + plugins
-
-  The clang_complete conf is configured for the default clang location on MacOS
-  so be sure to change it to where you have clang installed on the host system.
-
 ## Installation
 1. If .vim does not exist in your home directory already, else goto 2.  
     ```    
@@ -20,6 +16,10 @@
     ```
     bash config.sh
     ```
+## Post installation configuration:
+  ### clang_complete
+  Be sure to configure clang_complete to point to the host system's clang installation.
+
 #### Please report any issues you discover.  
   You can report them here.
 
