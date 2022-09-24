@@ -20,8 +20,11 @@
     ```
     bash config.sh
     ```
-### Please report any issues you discover.  
-### Thanks to the vundle team for making plugin management easy.  
+#### Please report any issues you discover.  
+  You can report them here.
+
+#### Thanks to the vundle team for making plugin management easy.  
+  https://github.com/VundleVim/Vundle.vim
 
 ## Enjoy  
 ### -mich
