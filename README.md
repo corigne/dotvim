@@ -7,10 +7,10 @@
   - xavierd/clang_complete (a C++ autocomplete plugin)
   ![clang_complete example](examples/clang_complete_ex.png)
   - tpope/vim-figutive (a powerful plugin for git in vim) 
-  - scrooloose/syntastic (syntax checking and highlighting)
+  - scrooloose/syntastic (syntax checking and highlighting)  
   ![syntastic example](examples/syntastic_ex.png)
-  - ntpeters/vim-better-whitespace (for highlighting and managing unwanted whitespace)
-  ![vim-better-whitespace example](vim-better-whitespace_ex.png)  
+  - ntpeters/vim-better-whitespace (for highlighting and managing unwanted whitespace)  
+  ![vim-better-whitespace example](examples/vim-better-whitespace_ex.png)
 
 ## Installation
 1. If .vim does not exist in your home directory already, else goto 2.  
